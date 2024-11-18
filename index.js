@@ -17,3 +17,7 @@ function fixBuaB() {
     console.log('fixBuaB');
 }
 
+
+function mainBase1(){
+    console.log('mainBase1');
+}
