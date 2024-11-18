@@ -1,7 +1,7 @@
 //index.html 을 위한 js file
 function login(username, password) {
     if(username && password){
-        console.log(username + ' ' + password);
+        console.log(username + 'main ' + password);
     }else{
         console.log('login fail');
     }
