@@ -6,3 +6,7 @@ function login(username, password) {
 function logout() {
     console.log('logout!!');
 }
+
+function fixBuaA() {
+    console.log('fixBuaA');
+}
