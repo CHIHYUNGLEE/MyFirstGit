@@ -10,3 +10,8 @@ function logout() {
 function fixBuaA() {
     console.log('fixBuaA');
 }
+
+function fixBuaB() {
+    console.log('fixBuaB');
+}
+
