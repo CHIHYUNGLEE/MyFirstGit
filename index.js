@@ -1,7 +1,7 @@
 //index.html 을 위한 js file
 function login(username, password) {
     if(username){
-        console.log(username + ' ' + password);
+        console.log(username + 'hotfix ' + password);
     }
 };
 
